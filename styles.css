@@ -45,7 +45,7 @@ nav ul li a {
     font-size: 18px;
 }
 
-/* Seção */
+/* Seções */
 section {
     padding: 20px;
     margin: 20px auto;
@@ -53,6 +53,14 @@ section {
     background-color: white;
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para imagens */
+.image-section img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
 }
 
 /* Botões de ação */
